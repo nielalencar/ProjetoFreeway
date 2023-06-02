@@ -10,13 +10,13 @@ Jogo Freeway faz parte do meu segundo projeto de estudando Lógica de Programaç
 | :fire: Desafio     | https://editor.p5js.org/DFLA/sketches/Wo0fO4ztE
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://github.com/nielalencar/modelo-para-projetos-vitrine-dev/assets/129704411/34984f1d-1636-46e6-b268-b7de8b4cabf6#vitrinedev)
+![rtyujhgfewerg](https://github.com/nielalencar/ProjetoFreeway/assets/129704411/2175167e-0251-4ae5-854c-06efd8c126cf#vitrinedev)
 
 ## Nesse projeto aprendir como é importante organizar nossos códigos, em pastas e arquivos diferentes, cada um com seu objetivo.
 
 Nessa etapa foram criadas pastas e arquivos das imagens, dos sons e dos tipos de linguagens, nesse caso o JS, CSS E HTML.
 
-![](https://github.com/nielalencar/modelo-para-projetos-vitrine-dev/assets/129704411/1ddad042-e6f6-417f-a2bf-6b827545244a)
+![hjghfgdfsd](https://github.com/nielalencar/ProjetoFreeway/assets/129704411/ae14ba20-670d-4138-bea9-8efae33f351b)
 
 Nessa etapa foram adcionadas as variáveis de posisão, colisão e pontos dos atores. Também foram adcionadas as funções de imagem dos atores e funções de movimentação dos atores utilizando as teclas UP e DOWN do teclado. 
 
