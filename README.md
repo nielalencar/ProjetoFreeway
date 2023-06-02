@@ -20,21 +20,19 @@ Nessa etapa foram criadas pastas e arquivos das imagens, dos sons e dos tipos de
 
 Nessa etapa foram adcionadas as variáveis de posisão, colisão e pontos dos atores. Também foram adcionadas as funções de imagem dos atores e funções de movimentação dos atores utilizando as teclas UP e DOWN do teclado. 
 
-![](https://github.com/nielalencar/modelo-para-projetos-vitrine-dev/assets/129704411/c23050ff-06f8-4462-990b-769860009667)
+![ASDFDGFHGJH](https://github.com/nielalencar/ProjetoFreeway/assets/129704411/108c9aa7-36a6-4f91-b827-0a0a029a8620)
 
 
 E agora uma etapa muito importante é fazer o arquivo index.html ler os aquivos .js de todo o projeto. Então dentro da tag main utilizamos a tag script referenciando com o src qual o arquivo que ele deveria ler.
 
-![](https://github.com/nielalencar/modelo-para-projetos-vitrine-dev/assets/129704411/94b106ac-3e76-4e41-a27a-466c919193d6)
+![asdasdas](https://github.com/nielalencar/ProjetoFreeway/assets/129704411/5d9903bb-1625-4831-b36a-a5decdc5102d)
 
 
 Uma etapa que foi mega importante para mim foi entender como funciona a Function preLoad onde adcionamos as imagens com a function loadImage e os sons dentro da mesma function preLoad que é a loadSound.
 Assim pude reproduzir no resultado final do meu códido todos os atores (carros e vaquinha) e também os sons de colisão, pontuação e trilha sonora.
 
-![](https://github.com/nielalencar/modelo-para-projetos-vitrine-dev/assets/129704411/249e1ece-a41d-4ea0-a28c-a45d2a52e398)
+![wegeev](https://github.com/nielalencar/ProjetoFreeway/assets/129704411/ae13037b-771a-4a98-ac52-e3e45d62c02d)
 
 ## E esse foi o resultado final desse projeto que gostei muito de aprender a fazer.
 
-![](https://github.com/nielalencar/modelo-para-projetos-vitrine-dev/assets/129704411/c0d1942f-96f7-4a10-9680-74e33ea51b8d)
-
-## Se quiser você pode ver o projeto clicando no :fire: Desafio ou no repositório do GitHub clicando no :rocket: URL. 
+![brbrwbrt](https://github.com/nielalencar/ProjetoFreeway/assets/129704411/32277a9c-1a43-431a-ace1-012f594c3da2)
